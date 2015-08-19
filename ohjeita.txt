@@ -1,0 +1,13 @@
+
+
+********auth token****
+- onko aina vai vaihtuuko per bash?
+
+heroku auth:token
+94e77aff-e9e8-4be2-ad0c-ddf77e681f45
+**************
+
+*****update********
+grunt
+grunt buildcontrol:heroku
+********************
