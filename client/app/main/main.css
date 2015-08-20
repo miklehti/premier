@@ -22,6 +22,29 @@
   background: #4393B9;
 }
 
+.table1 {
+  float:left;
+  padding: 10px;
+   text-align: center;
+}
+.table2 {
+  float:left;
+  padding: 10px;
+   text-align: center;
+}
+.table3 {
+  float:left;
+  padding: 10px;
+   text-align: center;
+}
+
 .navbar-text {
   margin-left: 15px;
+}
+.blue{
+  background: #4393B9
+}
+
+.lightblue{
+  background: #87CEFA
 }

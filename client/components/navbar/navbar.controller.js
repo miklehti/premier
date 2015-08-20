@@ -3,8 +3,11 @@
 angular.module('premierApp')
   .controller('NavbarCtrl', function ($scope, Auth) {
     $scope.menu = [{
-      'title': 'Home',
+      'title': 'viskipulloveto',
       'state': 'main'
+    },{
+      'title': 'olutveto',
+      
     }];
 
     $scope.isCollapsed = true;

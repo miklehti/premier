@@ -1,5 +1,5 @@
 
-
+http://localhost:9000/
 ********auth token****
 - onko aina vai vaihtuuko per bash?
 
@@ -8,7 +8,7 @@ heroku auth:token
 **************
 
 *****update********
-grunt
+grunt --force
 grunt buildcontrol:heroku
 ********************
 
