@@ -150,22 +150,22 @@ angular.module('premierApp')
       points:0
     },
     {
-      teamName: "Southampton FC",
+      teamName: "Swansea City FC",
       position: 7,
       points:0
     },
     {
-      teamName: "Everton FC",
+      teamName: "Tottenham Hotspur FC",
       position: 8,
       points:0
     },
     {
-      teamName: "Stoke City FC",
+      teamName: "Southampton FC",
       position: 9,
       points:0
     },
     {
-      teamName: "Swansea City FC",
+      teamName: "Stoke City FC",
       position: 10,
       points:0
     },
@@ -175,7 +175,7 @@ angular.module('premierApp')
       points:0
     },
     {
-      teamName: "Newcastle United FC",
+      teamName: "Leicester City FC",
       position: 12,
       points:0
     },
@@ -185,12 +185,12 @@ angular.module('premierApp')
       points:0
     },
     {
-      teamName: "Leicester City FC",
+      teamName: "Aston Villa FC",
       position: 14,
       points:0
     },
     {
-      teamName: "Watford FC",
+      teamName: "Newcastle United FC",
       position: 15,
       points:0
     },
@@ -200,22 +200,22 @@ angular.module('premierApp')
       points:0
     },
     {
-      teamName: "Aston Villa FC",
+      teamName: "Watford FC",
       position: 17,
       points:0
     },
     {
-      teamName: "Sunderland AFC",
+      teamName: "Norwich City FC",
       position: 18,
       points:0
     },
     {
-      teamName: "AFC Bournemouth",
+      teamName: "Sunderland AFC",
       position: 19,
       points:0
     },
     {
-      teamName: "Norwich City FC",
+      teamName: "AFC Bournemouth",
       position: 20,
       points:0
     },

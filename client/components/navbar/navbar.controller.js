@@ -7,7 +7,7 @@ angular.module('premierApp')
       'state': 'main'
     },{
       'title': 'olutveto',
-      
+      'state': 'main'
     }];
 
     $scope.isCollapsed = true;

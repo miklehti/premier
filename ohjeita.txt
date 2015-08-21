@@ -19,7 +19,7 @@ grunt serve:dist
 *******Request**********
 $.ajax({
   headers: { 'X-Auth-Token': 'e333138aa39548c3933e6a113f5f2ef5' },
-  url: 'http://api.football-data.org/alpha/soccerseasons/398/leagueTable',
+  url: '//api.football-data.org/alpha/soccerseasons/398/leagueTable',
   dataType: 'json',
   type: 'GET',
 }).done(function(response) {
